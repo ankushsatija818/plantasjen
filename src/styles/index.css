@@ -1,0 +1,40 @@
+@import url(./fonts.css);
+@import url(./accordion.css);
+@import url(./card.css);
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Plantagen", sans-serif;
+  font-weight: normal;
+}
+img {
+  max-width: 100%;
+}
+footer a:hover {
+  text-decoration: underline;
+}
+
+.logo {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  width: 250px;
+  height: 50px;
+}
+
+#image img {
+  object-fit: cover;
+  width: 100%;
+  height: 600px;
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+}

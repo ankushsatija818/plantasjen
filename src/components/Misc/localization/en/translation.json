@@ -1,0 +1,18 @@
+{
+  "planting": "Planting",
+  "watering": "Watering",
+  "pruning": "Pruning",
+  "otherinfo": "Other Info",
+  "protection": "Protection",
+  "searchPlaceholder": "Search for plants...",
+  "breadcrumb": "Back",
+  "plantGuidePath": "/plant-guides",
+  "lang": "en",
+  "errorPath": "/sites/template/404-page-not-found",
+  "tabTitle": "Plant guides - Plantagen.com",
+  "categoryLang": "All Plants",
+  "plantNotFound": {
+    "partOne": "No search results found for",
+    "partTwo": "Oh, here we probably have to dig a little deeper! Feel free to try another word."
+  }
+}

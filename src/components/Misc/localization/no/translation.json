@@ -1,0 +1,18 @@
+{
+  "planting": "Planting",
+  "watering": "Vanning",
+  "pruning": "Beskjæring",
+  "otherinfo": "Annen Info",
+  "protection": "Beskyttelse",
+  "searchPlaceholder": "Søk etter planter...",
+  "breadcrumb": "Tilbake",
+  "plantGuidePath": "/planteguider",
+  "lang": "no",
+  "errorPath": "/sites/template/404-siden-ble-ikke-funnet",
+  "tabTitle": "Planteguide - Plantasjen.no",
+  "categoryLang": "Alle planter",
+  "plantNotFound": {
+    "partOne": "Fant ingen søkeresultater for",
+    "partTwo": "Oi, her må vi nok grave litt dypere! Prøv gjerne med et annet ord."
+  }
+}

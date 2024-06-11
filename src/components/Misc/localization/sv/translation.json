@@ -1,0 +1,18 @@
+{
+  "planting": "Plantering",
+  "watering": "Vattna",
+  "pruning": "Beskärning",
+  "otherinfo": "Annan information",
+  "protection": "Skydd",
+  "searchPlaceholder": "Sök efter växter...",
+  "breadcrumb": "Tillbaka",
+  "plantGuidePath": "/plantskotare",
+  "lang": "se",
+  "errorPath": "/sites/template/404-sidan-hittades-inte",
+  "tabTitle": "Plantskötare - Plantagen.se",
+  "categoryLang": "Alla växter",
+  "plantNotFound": {
+    "partOne": "Inga sökresultat hittades för",
+    "partTwo": "Oj, här måste vi nog gräva lite djupare! Prova gärna ett annat ord."
+  }
+}

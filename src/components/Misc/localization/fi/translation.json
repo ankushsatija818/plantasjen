@@ -1,0 +1,18 @@
+{
+  "planting": "Istutus",
+  "watering": "Kastelu",
+  "pruning": "Leikkaaminen",
+  "otherinfo": "Muut tiedot",
+  "protection": "Suojaus",
+  "searchPlaceholder": "Etsi kasveja...",
+  "breadcrumb": "Takaisin",
+  "plantGuidePath": "/kasvien-oppaat",
+  "lang": "fi",
+  "errorPath": "/sites/template/404-sivua-ei-loytynyt",
+  "tabTitle": "Kasvien oppaat - Plantagen.fi",
+  "categoryLang": "Kaikki kasvit",
+  "plantNotFound": {
+    "partOne": "Ei hakutuloksia haulle",
+    "partTwo": "Oi, tässä meidän täytyy varmaan kaivaa hieman syvemmälle! Voit vapaasti kokeilla toista sanaa."
+  }
+}
